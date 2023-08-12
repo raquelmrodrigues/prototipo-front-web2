@@ -1,0 +1,31 @@
+.btn {
+    width: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border-radius: 10px;
+    background-color: #857DC4;
+    border: 0cap;
+    align-items: center;
+    }
+    .form-group {
+        width: 20%;
+    }
+    .container {
+        position: relative;
+    }
+    a {
+        color:#91C2D8;
+    }
+    #cadastro {
+        position: absolute;
+        top: 110%;
+        left: 10%;
+        transform: translate(-50%, -50%);
+    }
+    .maquina {
+        object-position: bottom 12px right 40px;
+        align-items: center;
+    }
+  
