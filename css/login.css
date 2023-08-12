@@ -5,18 +5,19 @@
     -o-border-radius: 50px;
     -ms-border-radius: 50px;
     border-radius: 10px;
-    background-color: #857DC4;
-    border: 0cap;
+    background-color: #857DC4 !important;
+    border: #91C2D8 !important;
     align-items: center;
+    width: 300px;
     }
     .form-group {
-        width: 20%;
+        width: 300px;
     }
     .container {
         position: relative;
     }
     a {
-        color:#91C2D8;
+        color:#91C2D8 !important;
     }
     #cadastro {
         position: absolute;
@@ -28,4 +29,13 @@
         object-position: bottom 12px right 40px;
         align-items: center;
     }
-  
+    .col-4 {
+        padding-top: 20rem;
+    }
+    .col-8 {
+        padding-top: 10rem;
+        padding-left: 10rem;
+    }
+    .cadastro {
+        padding-left: 90px;
+    }
