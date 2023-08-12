@@ -1,0 +1,17 @@
+body {
+	font-family: Helvetica, sans-serif;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.row {
+    padding-top: 10%;
+}
+.input-group {
+    margin-right: 10px;
+  }
+  
+  .input-group:last-child {
+    margin-right: 0;
+  }
