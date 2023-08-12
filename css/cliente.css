@@ -1,0 +1,31 @@
+body {
+	font-family: Helvetica, sans-serif;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.pedidos {
+  text-align: center;
+  color: #857DC4;
+}
+.pedido-1{
+  text-align: center;
+  color: black;
+
+}
+.row-1{
+    padding-top: 9%;
+}
+.row-2{
+   padding-top: 3%;
+}
+.list-group {
+  text-align: center;
+  width: 70%;
+  justify-content: center;
+  margin-left: 15%;
+}
+.list-group-item {
+  padding: 5%;
+}
