@@ -19,30 +19,26 @@
     a {
         color:#91C2D8 !important;
     }
-    #cadastro {
-        position: absolute;
-        top: 110%;
-        left: 10%;
-        transform: translate(-50%, -50%);
-    }
-    .maquina {
-        object-position: bottom 12px right 40px;
-        align-items: center;
-    }
     .tudo {
-        padding-top: 10%;
+        padding-top: 8%;
     }
     .col-8 {
         padding-top: 3%;
-        padding-left: 10%;
+    }
+    .img-vetor{
+        padding-left: 13%;
     }
     .btn-login {
         padding-left: 70px;
     }
      .voltar{
         font-size: xx-large;
-        padding-top: 15%;
+        padding-top: 8%;
      }
      .sub-titulo{
+        padding-bottom: 3%;
         color: #857DC4;
+     }
+     .form-group{
+        padding-bottom: 3%;
      }
