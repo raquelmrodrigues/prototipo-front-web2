@@ -9,10 +9,9 @@ body {
   text-align: center;
   color: #857DC4;
 }
-.pedido-1{
+.pedido{
   text-align: center;
   color: black;
-
 }
 .row-1{
     padding-top: 9%;
@@ -25,7 +24,11 @@ body {
   width: 70%;
   justify-content: center;
   margin-left: 15%;
+  padding-bottom: 2%;
 }
 .list-group-item {
   padding: 5%;
+}
+.list-group-item-secundary{
+  background-color: black !important;
 }
