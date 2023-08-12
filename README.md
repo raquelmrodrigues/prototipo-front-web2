@@ -1,1 +1,8 @@
-# prototipo-front-web2
+# REQUISITOS
+## Para 14/08
+- RF001 - Autocadastro - Raquel
+- ~~RF002 - Login - Giulia~~
+- RF003 - Página Inicial de Cliente - Anita
+- ~~RF004 - Pedido On-line - Thaly~~
+- RF005 - Aprovar Orçamento do Pedido - Gabriel
+- RF006 - Rejeitar Orçamento do Pedido - Gabriel
