@@ -29,8 +29,8 @@
         object-position: bottom 12px right 40px;
         align-items: center;
     }
-    .col-4 {
-        padding-top: 20rem;
+    .tudo {
+        padding-top: 5rem;
     }
     .col-8 {
         padding-top: 10rem;
@@ -39,3 +39,7 @@
     .cadastro {
         padding-left: 90px;
     }
+     .voltar{
+        font-size: xx-large;
+        padding-top: 15rem;
+     }
