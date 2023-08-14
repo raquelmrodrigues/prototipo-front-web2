@@ -1,48 +1,22 @@
-.btn {
-    width: 20%;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    -o-border-radius: 50px;
-    -ms-border-radius: 50px;
-    border-radius: 10px;
+.btn-cadastro {
+    color: white !important;
     background-color: #857DC4 !important;
     border: #91C2D8 !important;
-    align-items: center;
-    width: 300px;
-    }
-    .form-group {
-        width: 300px;
-    }
-    .container {
-        position: relative;
-    }
-    a {
-        color:#91C2D8 !important;
-    }
-    .tudo {
-        padding-top: 10%;
-    }
-    .col-8 {
-        padding-top: 5%;
-    }
-    .cadastro {
-        padding-top: 2%;
-        padding-left: 100px;
-    }
-    .voltar{
-        font-size: xx-large;
-        padding-top: 15%;
-     }
-     .img-vetor{
-        padding-left: 13%;
-    }
-    .form-check{
-        padding-bottom: 2%;
-    }
-    .sub-titulo{
-        padding-bottom: 3%;
-        color: #857DC4;
-     }
-    .form-group{
-        padding-bottom: 3%;
-     }
+}
+
+a {
+    color:#91C2D8 !important;
+}
+
+.sub-titulo {
+    color: #857DC4;
+}
+
+.recuperar-senha {
+    font-size: 12.5px;
+}
+
+input {
+    /* ironicamente isso aqui é melhor do que colocar mb-3 em todos os campos do form */
+    margin-bottom: 5% !important;
+}
