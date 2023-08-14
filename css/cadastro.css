@@ -1,45 +1,18 @@
-.btn {
-    width: 20%;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    -o-border-radius: 50px;
-    -ms-border-radius: 50px;
-    border-radius: 10px;
+.btn-cadastro {
+    color: white !important;
     background-color: #857DC4 !important;
     border: #91C2D8 !important;
-    align-items: center;
-    width: 300px;
-    }
-    .form-group {
-        width: 300px;
-    }
-    .container {
-        position: relative;
-    }
-    a {
-        color:#91C2D8 !important;
-    }
-    .tudo {
-        padding-top: 8%;
-    }
-    .col-8 {
-        padding-top: 3%;
-    }
-    .img-vetor{
-        padding-left: 13%;
-    }
-    .btn-login {
-        padding-top: 2%;
-        padding-left: 70px;
-    }
-     .voltar{
-        font-size: xx-large;
-        padding-top: 8%;
-     }
-     .sub-titulo{
-        padding-bottom: 3%;
-        color: #857DC4;
-     }
-     .form-group{
-        padding-bottom: 3%;
-     }
+}
+
+a {
+    color:#91C2D8 !important;
+}
+
+.sub-titulo {
+    color: #857DC4;
+}
+
+input {
+    /* ironicamente isso aqui é melhor do que colocar pb-3 em todos os campos do form */
+    margin-bottom: 5% !important;
+}
