@@ -24,5 +24,9 @@
 }
 
 .tabela{
-    background-color: #F6F1F1 !important;
+	--bs-table-bg: #F6F1F1 !important;
+}
+
+.border-tabela {
+	border-color: white !important;
 }
