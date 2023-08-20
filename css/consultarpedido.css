@@ -1,6 +1,3 @@
-
-
-
 .numPedido{
     color: #CF8DA7;
     font-weight: bold;
@@ -10,4 +7,18 @@
     color: #857DC4;
     font-weight: bold;
     text-align: center;
+}
+
+.tituloPagina{
+    color:#857DC4;
+}
+
+.pesquisa{
+    background-color: #CF8DA7;
+}
+
+.btn-baixo{
+    color: white !important;
+    background-color: #857DC4 !important;
+    border: #91C2D8 !important;
 }
