@@ -9,3 +9,9 @@ body {
 .pedido{
   color: black;
 }
+
+.btn-recolhe {
+  color: white !important;
+  background-color: #857DC4 !important;
+  border: #91C2D8 !important;
+}
